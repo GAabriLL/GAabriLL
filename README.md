@@ -1,7 +1,7 @@
 <img widht=100% src="http://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=160&section=header&text=Gabriel+Silva+Gonçalves&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=800&lines=Olá!,+Me+chamo+Gabriel+Silva+Gonçalves;Tenho+16+anos;Móro+em+Campo+Mouraõ+Brasil,PR)](https://git.io/typing-svg)
-- :calling: Meu E-mail é esse: gabriel.silva.goncalves@escola.pr.gov.br
+- :calling: Meu E-mail é esse: gabril.ssilva989@gmail.com
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
