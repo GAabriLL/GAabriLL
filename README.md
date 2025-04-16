@@ -51,3 +51,5 @@
 
 ---
 > “The best way to predict the future is to invent it.” – Alan Kay
+>
+![Snake animation](https://github.com/GAabriLL/GAabriLL/blob/output/github-contribution-grid-snake.svg)
